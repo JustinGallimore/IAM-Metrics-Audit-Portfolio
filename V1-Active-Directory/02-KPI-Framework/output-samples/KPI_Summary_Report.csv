@@ -1,0 +1,2 @@
+"ReportDate","TotalAccounts","EnabledAccounts","DisabledAccounts","EnabledPercent","DisabledPercent","NeverLoggedIn","StalePasswords90Days","NoPasswordSet"
+"05/03/2026","19","11","8","57.9%","42.1%","18","0","Microsoft.ActiveDirectory.Management.ADPropertyValueCollection"

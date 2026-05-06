@@ -1,0 +1,2 @@
+"AuditDate","AuditTimestamp","CollectedBy","ServerName","Domain","TotalUsersAudited","EvidenceFilesCreated","AuditStandard","ReviewCycle","NextReviewDue"
+"2026-05-03","2026-05-03 20:02:30","Administrator","DC01","lab.local","19","5","SOC 2 Type II / ISO 27001","Monthly","2026-06-03"

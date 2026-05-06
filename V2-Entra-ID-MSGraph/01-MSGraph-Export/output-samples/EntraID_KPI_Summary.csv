@@ -1,0 +1,2 @@
+"ReportDate","TotalUsers","EnabledUsers","DisabledUsers","EnabledPercent","DisabledPercent","NoDepartmentUsers","DataSource","TenantDomain"
+"05/05/2026","11","8","3","72.7%","27.3%",,"Microsoft Entra ID via MS Graph","justingallimoregmail.onmicrosoft.com"
