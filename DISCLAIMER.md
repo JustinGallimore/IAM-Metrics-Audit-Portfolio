@@ -1,0 +1,1 @@
+All data, identities, and configurations in this repository are synthetic and created solely for demonstration and lab purposes. No real user data, credentials, or production environment details are included.
